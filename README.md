@@ -37,12 +37,20 @@ Antes de ejecutar el programa, asegurate de tener:
 - **JDK** instalado en el sistema operativo.
 
 ### 3. Instalación
-1. Copiar `proyecto` al equipo de ejecución.
-2. Ejecutar el `IDE`.
-3. Abrir la carpeta `Tarea Semana 2`
-4. Abrir carpeta `src`
-5. Abrir `App.Java`
-6. Ejecutar `App.Java` para iniciar el programa.
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/arm4rg/Ciclos-Java.git
+    cd Ciclos-Java
+    ```
+2. Compila el archivo `App.java`:
+    ```bash
+    javac App.java
+    ```
+3. Ejecuta el programa:
+    ```bash
+    App.java
+    ```
+
 
 ### 4. Uso
 Al ejecutar el programa, se presentará un menú con varias opciones. Selecciona un número del menú para ejecutar los 2 ejercicios de la opción seleccionada:
